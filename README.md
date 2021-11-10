@@ -1,4 +1,4 @@
-Good evening CECS 444! I have \*finally\* completed your semester assignment which is to hand-craft the first two major components of a compiler.
+Good evening CECS 444! I have *finally* completed your semester assignment which is to hand-craft the first two major components of a compiler.
 
 Wait...I know what you're thinking right now. Allow me to answer your questions: Yes, this is a difficult task. Yes, I also believe you all can do it. Yes, it will be awesome when you're done. :-)
 
@@ -6,7 +6,7 @@ With the scanner and the parser both created, you should use the scanner's outpu
 
 Ideally, your scanner/parser system will handle all potential cases in the token and language specifications. I have included a really tough test case which handles a bunch of edge cases so you can thoroughly put your code through the wringer. If you want a "top" grade for the lab assignment, you'll have to make sure your code rigorously handles virtually anything I can throw at it (and I will be tough ;-)  ) If you flawlessly pass the test contained in "hardtestcase.txt", you can be reasonably assured that you've done your job.
 
-_I only have the scanner portion written as of today (Oct 14)_, so the parser requirements will be coming in the following weeks. I will update this document when I have them ready.
+*I only have the scanner portion written as of today (Oct 14)*, so the parser requirements will be coming in the following weeks. I will update this document when I have them ready.
 
 The Scanner
 -----------
