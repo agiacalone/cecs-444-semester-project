@@ -13,10 +13,10 @@ The Scanner
 
 I have included the following files in this section which will serve as the specifications for your project. Included are:
 
-*   exhaustive unit test <hardtestcase.txt>
-*   tokens <tokens.txt>
-*   reserved words <rwords.txt>
-*   An image of an example log for the scanner <tokenlog.png>
+    *   exhaustive unit test <hardtestcase.txt>
+    *   tokens <tokens.txt>
+    *   reserved words <rwords.txt>
+    *   An image of an example log for the scanner <tokenlog.png>
 
 The scanner will need to be verbose in its logging, as I will use the program's logs to verify the successful tokenization of the given input.
 
@@ -26,8 +26,7 @@ Okay, here is what I will require from you for the semester:
 
 1.  Images of your NFA and DFA for all tokens (ideally, in an accessible document)
 2.  Your completed scanner, which will include:
-
-*   *   an action table
+    *   an action table
     *   a lookup table
     *   a state table
     *   the executable which reads in a source code file
@@ -38,7 +37,6 @@ Of course, your scanner will have to pass the given test in "hardtestcase.txt" f
 **Due by Dec 10:**
 
 Your completed parser, which will include:
-
 1.  the parse table
 2.  the parser tokens
 3.  the parser interpreter runtime file
