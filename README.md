@@ -21,7 +21,7 @@ The scanner will need to be verbose in its logging, as I will use the program's 
 
 Okay, here is what I will require from you for the semester:
 
-**Due by Nov 19**:
+### Due by Nov 19
 
 1. Images of your NFA and DFA for all tokens (ideally, in an accessible document)
 2. Your completed scanner, which will include:
@@ -43,9 +43,8 @@ The grammar will not be enough, however, to fully complete your parser. In addit
 * the first sets
 * the follow sets
 * the predict sets
-* the final parse table
 
-**Due by Dec 10:**
+### Due by Dec 10
 
 Your completed parser, which will include:
 
