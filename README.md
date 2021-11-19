@@ -21,7 +21,7 @@ The scanner will need to be verbose in its logging, as I will use the program's 
 
 Okay, here is what I will require from you for the semester:
 
-**Due by Nov 12**:
+**Due by Nov 19**:
 
 1. Images of your NFA and DFA for all tokens (ideally, in an accessible document)
 2. Your completed scanner, which will include:
