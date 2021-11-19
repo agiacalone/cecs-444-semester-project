@@ -33,14 +33,27 @@ Okay, here is what I will require from you for the semester:
 
 Of course, your scanner will have to pass the given test in [hardtestcase.txt](hardtestcase.txt) for full credit (the A). Anything short of that will receive points based on how closely your scanner meets the specifications.
 
+## The LL(1) Parser
+
+We will be making a LL(1) parser in this course. Aside from the scanner/lexer that you have created, you will use the grammar specification in [grammar.txt](parser/grammar.txt) to match tokens that your scanner will output.
+
+The grammar will not be enough, however, to fully complete your parser. In addition to the included files, you will need to produce a parse table which takes the grammar and matches statements from your input. Recall our lectures: in order to create the parse table, you will need:
+
+* a left-recursion free grammar (Good news! It's *already* left-recursion free! You can thank me later.)
+* the first sets
+* the follow sets
+* the predict sets
+* the final parse table
+
 **Due by Dec 10:**
 
 Your completed parser, which will include:
 
 1. the parse table
-2. the parser tokens
+2. the sets (first, follow, predict)
 3. the parser interpreter runtime file
+4. and a test run which shows the successful completion of [hardtestcase.txt](lexer/hardtestcase.txt)
 
 Like the requirements for the scanner, your parser will be graded on how accurate it handles the requirements given in [grammar.txt](parser/grammar.txt).
 
-Good luck!
+If you complete all of this, give yourself a strong pat on the back. You've just accomplished *one of the most difficult tasks* in computer science!
