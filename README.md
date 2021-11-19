@@ -51,7 +51,7 @@ Your completed parser, which will include:
 1. the parse table
 2. the sets (first, follow, predict)
 3. the parser interpreter runtime file
-4. and a test run which shows the successful completion of [hardtestcase.txt](lexer/hardtestcase.txt)
+4. and a test run screenshot which shows the successful completion of [hardtestcase.txt](lexer/hardtestcase.txt)
 
 Like the requirements for the scanner, your parser will be graded on how accurate it handles the requirements given in [grammar.txt](parser/grammar.txt).
 
