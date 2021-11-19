@@ -6,7 +6,7 @@ Wait...I know what you're thinking right now. Allow me to answer your questions:
 
 With the scanner and the parser both created, you should use the scanner's output as the input for the parser. Both pieces should work seamlessly together when the whole thing is done.
 
-Ideally, your scanner/parser system will handle all potential cases in the token and language specifications. I have included a really tough test case which handles a bunch of edge cases so you can thoroughly put your code through the wringer. If you want a "top" grade for the lab assignment, you'll have to make sure your code rigorously handles virtually anything I can throw at it (and I will be tough ;-)  ) If you flawlessly pass the test contained in [hardtestcase.txt](lexer/hardtestcase.txt), you can be reasonably assured that you've done your job.
+Ideally, your scanner/parser system will handle all potential cases in the token and language specifications. I have included a really tough test case which handles a bunch of edge cases so you can thoroughly put your code through the wringer. If you want a "top" grade for the semester project, you'll have to make sure your code rigorously handles virtually anything I can throw at it (and I will be tough ;-)  ) If you flawlessly pass the test contained in [hardtestcase.txt](lexer/hardtestcase.txt), you can be reasonably assured that you've done your job.
 
 ## The Scanner/Lexer
 
