@@ -1,3 +1,5 @@
+# CECS 444 Semester Project: Make a Compiler
+
 Good evening CECS 444! I have *finally* completed your semester assignment which is to hand-craft the first two major components of a compiler.
 
 Wait...I know what you're thinking right now. Allow me to answer your questions: Yes, this is a difficult task. Yes, I also believe you all can do it. Yes, it will be awesome when you're done. :-)
