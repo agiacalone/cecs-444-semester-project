@@ -25,11 +25,11 @@ Okay, here is what I will require from you for the semester:
 
 1. Images of your NFA and DFA for all tokens (ideally, in an accessible document)
 2. Your completed scanner, which will include:
-   [] an action table
-   [] a lookup table
-   [] a state table
-   [] the executable which reads in a source code file
-   [] a screenshot of log output (not a text file)
+   * an action table
+   * a lookup table
+   * a state table
+   * the executable which reads in a source code file
+   * a screenshot of log output (not a text file)
 
 Of course, your scanner will have to pass the given test in [hardtestcase.txt](hardtestcase.txt) for full credit (the A). Anything short of that will receive points based on how closely your scanner meets the specifications.
 
